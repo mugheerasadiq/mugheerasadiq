@@ -3,7 +3,7 @@
 #### Full-Stack Software Engineer | .NET Core & ReactJS | Azure Cloud Enthusiast
 
 - 💼 **Software Engineer at [Astera](https://astera.com/)**
-- ⚙️ **Daily tools:** `.NET Core`, `ReactJS`, `Azure`, `JavaScript`, `TypeScript`
+- ⚙️ **I use daily:** `.NET Core`, `ReactJS`, `Azure`, `JavaScript`, `TypeScript`
 
 🚀 **Technologies I work with:**
 
