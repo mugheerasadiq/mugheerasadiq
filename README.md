@@ -1,16 +1,19 @@
-### Hello there 👋
+### Hello there! 👋
 
 #### Full-Stack Software Engineer | .NET Core & ReactJS | Azure Cloud Enthusiast
 
-- Software Engineer at [Astera](https://astera.com/)<br>
+- 💼 **Software Engineer at [Astera](https://astera.com/)**
+- ⚙️ **Daily tools:** `.NET Core`, `ReactJS`, `Azure`, `JavaScript`, `TypeScript`
 
-- ⚙️ I use daily: `.NET Core`, `ReactJS`, `Azure`, `.js`, `.ai`
-- 
 🚀 **Technologies I work with:**
+
 - **Languages**: C#, JavaScript, TypeScript
 - **Frontend**: ReactJS, Redux, Next.js
 - **Backend**: .NET Core, Node.js
-- **Cloud & DevOps**: Azure Cloud, Docker
+- **Cloud & DevOps**: Azure Cloud (Blob Storage, Queue Storage, Functions, Container Apps), Docker, Bicep
 - **Databases**: Microsoft SQL Server, PostgreSQL, MongoDB
 - **Other**: RabbitMQ, SendGrid
 
+📫 **Get in touch:**
+- [LinkedIn](https://www.linkedin.com/in/mugheerasadiq)
+- [Email](mailto:mugheerasadiq@gmail.com)
