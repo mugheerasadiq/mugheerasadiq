@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**mugheerasadiq/mugheerasadiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Full-Stack Software Engineer | .NET Core & ReactJS | Azure Cloud Enthusiast
 
-Here are some ideas to get you started:
+Software Engineer at [Astera](https://astera.com/);<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I use daily: `.NET Core`, `ReactJS`, `Azure`, `.js`, `.ai`
+- 
+🚀 **Technologies I work with:**
+- **Languages**: C#, JavaScript, TypeScript
+- **Frontend**: ReactJS, Redux, Next.js
+- **Backend**: .NET Core, Node.js
+- **Cloud & DevOps**: Azure Cloud, Docker
+- **Databases**: Microsoft SQL Server, PostgreSQL, MongoDB
+- **Other**: RabbitMQ, SendGrid
+
